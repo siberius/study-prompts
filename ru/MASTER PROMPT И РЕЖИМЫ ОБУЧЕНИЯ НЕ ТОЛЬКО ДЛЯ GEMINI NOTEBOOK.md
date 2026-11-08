@@ -1,4 +1,4 @@
-# MATSER PROMPT И РЕЖИМЫ ОБУЧЕНИЯ НЕ ТОЛЬКО ДЛЯ GEMINI NOTEBOOK
+# MASTER PROMPT И РЕЖИМЫ ОБУЧЕНИЯ НЕ ТОЛЬКО ДЛЯ GEMINI NOTEBOOK
 
 Версия: 1.0.0 · 2026-11-05
 

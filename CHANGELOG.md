@@ -16,4 +16,4 @@
 - Add language-specific README and usage documentation.
 - Document adaptation beyond Gemini Notebook without claiming tested compatibility.
 - Preserve Luděk Sušický as author and apply CC0 1.0 to original project text and translations.
-- Use the requested MATSER naming in distributed files.
+- Correct master prompt file naming and link formatting.

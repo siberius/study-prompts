@@ -30,7 +30,7 @@ Proporciona fuentes legibles mediante el mecanismo admitido. Comprueba su dispon
 
 ## Traducciones y versiones
 
-Mantén primero el original inglés y revisa después las tres traducciones: decisiones, ayudas, evaluación y reglas de fuentes. Conserva la numeración de 15 bloques. Traduce campos y texto, preservando el nombre del autor y su descripción profesional canónica. La grafía MATSER de los nombres es intencionada. Actualiza enlaces al renombrar. CC0 cubre el texto original y las traducciones, no materiales externos.
+Mantén primero el original inglés y revisa después las tres traducciones: decisiones, ayudas, evaluación y reglas de fuentes. Conserva la numeración de 15 bloques. Traduce campos y texto, preservando el nombre del autor y su descripción profesional canónica. Actualiza enlaces al renombrar. CC0 cubre el texto original y las traducciones, no materiales externos.
 
 Antes de publicar revisa enlaces, bloques, versiones, autoría y licencias. Registra pruebas de comportamiento separadas de la revisión estructural. Casos sugeridos: fuentes incompletas, respuesta alternativa correcta, ayuda tras error, fuentes contradictorias, cambio de modo de examen y continuación en otro chat. Registra aplicación, modelo conocido, fecha, idioma, materiales y fallos observados. Esta versión no tiene resultados de pruebas prácticas en Gemini Notebook ni otros proveedores.
 

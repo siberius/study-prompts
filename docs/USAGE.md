@@ -30,7 +30,7 @@ Provide readable sources through the host's supported mechanism. Check which mat
 
 ## Translation and release maintenance
 
-Maintain the English source first, then review all three translations for the same decisions, help conditions, assessment boundaries and source rules. Keep the 15 block numbers aligned. Translate placeholders and prose while preserving the author's name and canonical biography. The requested spelling MATSER in file names and titles is intentional. Update links after renames. CC0 covers original project text and translations; do not relicense external materials.
+Maintain the English source first, then review all three translations for the same decisions, help conditions, assessment boundaries and source rules. Keep the 15 block numbers aligned. Translate placeholders and prose while preserving the author's name and canonical biography. Update links after renames. CC0 covers original project text and translations; do not relicense external materials.
 
 Before a release, inspect links, fenced blocks, versions, attribution and license notices. Record actual behavioral trials separately from structural review. Suggested trials: startup with incomplete sources; equivalent correct answer; help after a failed attempt; contradictory sources; mock-exam mode switch; handoff in a fresh chat. Record host, model label if known, date, language, supplied materials and observed failures. This release has no live Gemini Notebook or other-provider test results.
 

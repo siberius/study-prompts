@@ -30,7 +30,7 @@ Zpřístupni čitelné zdroje podporovaným mechanismem prostředí. Před hodno
 
 ## Překlady a vydávání
 
-Nejprve udržuj anglický zdroj a pak zkontroluj stejné principy ve třech překladech: rozhodování, pomoc, hodnocení a pravidla zdrojů. Zachovej číslování 15 bloků. Překládej pole i text, ale zachovej jméno autora a kanonický profesní popis. Zápis MATSER v názvech je výslovně zvolený. Po přejmenování aktualizuj odkazy. CC0 se vztahuje na původní text projektu a překlady, nikoli na externí materiály.
+Nejprve udržuj anglický zdroj a pak zkontroluj stejné principy ve třech překladech: rozhodování, pomoc, hodnocení a pravidla zdrojů. Zachovej číslování 15 bloků. Překládej pole i text, ale zachovej jméno autora a kanonický profesní popis. Po přejmenování aktualizuj odkazy. CC0 se vztahuje na původní text projektu a překlady, nikoli na externí materiály.
 
 Před vydáním zkontroluj odkazy, bloky, verze, autorství a licence. Skutečné průchody eviduj odděleně od kontroly struktury. Vhodné situace: start bez úplných zdrojů, alternativní správná odpověď, pomoc po chybě, rozporné zdroje, změna zkušebního režimu a předání do nového chatu. Eviduj prostředí, známý model, datum, jazyk, podklady a pozorované chyby. Tato verze nemá výsledky živého testování v Gemini Notebook ani u jiného poskytovatele.
 
