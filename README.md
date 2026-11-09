@@ -8,9 +8,14 @@ Version: 1.0.0 · 2026-11-05
 
 A source-based study prompt library: one shared master prompt and fourteen selectable blocks for planning, explanation, retrieval, instructor emphasis, assessment and continuity. English is the maintained primary edition; Czech, Russian and Spanish preserve the same workflow.
 
-Luděk Sušický
+## Author
 
-biologist, secondary-school and university teacher of computing subjects · [@siberius on GitHub](https://github.com/siberius)
+**Luděk Sušický** — biologist, secondary-school and university teacher of computing subjects
+
+- E-mail: [ludek.susicky@gmail.com](mailto:ludek.susicky@gmail.com)
+- X: [@ludeksusicky](https://x.com/ludeksusicky)
+- LinkedIn: [Luděk Sušický](https://www.linkedin.com/in/ludek-susicky/)
+- GitHub: [@siberius](https://github.com/siberius) — more educational projects and open-source applications
 
 ## Start
 
