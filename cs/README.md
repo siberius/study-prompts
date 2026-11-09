@@ -10,7 +10,7 @@ Knihovna pro studium z podkladů: jeden společný master prompt a čtrnáct vol
 
 Luděk Sušický
 
-biolog, středoškolský a vysokoškolský učitel informatických předmětů
+biolog, středoškolský a vysokoškolský učitel informatických předmětů · [@siberius na GitHubu](https://github.com/siberius)
 
 ## Začátek
 

@@ -10,7 +10,7 @@ A source-based study prompt library: one shared master prompt and fourteen selec
 
 Luděk Sušický
 
-biologist, secondary-school and university teacher of computing subjects
+biologist, secondary-school and university teacher of computing subjects · [@siberius on GitHub](https://github.com/siberius)
 
 ## Start
 
