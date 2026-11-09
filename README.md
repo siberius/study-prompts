@@ -1,5 +1,9 @@
 # Study prompts
 
+> 📖 **Článek a průvodce na Vibemaker:** [Master prompt a studijní režimy pro Gemini Notebook](https://vibemaker.cz/clanek/master-prompt-gemini-notebook/)
+
+[![Master prompt a studijní režimy pro Gemini Notebook](docs/gemini-notebook.gif)](https://vibemaker.cz/clanek/master-prompt-gemini-notebook/)
+
 Version: 1.0.0 · 2026-11-05
 
 A source-based study prompt library: one shared master prompt and fourteen selectable blocks for planning, explanation, retrieval, instructor emphasis, assessment and continuity. English is the maintained primary edition; Czech, Russian and Spanish preserve the same workflow.
