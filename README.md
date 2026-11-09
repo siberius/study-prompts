@@ -10,7 +10,7 @@ A source-based study prompt library: one shared master prompt and fourteen selec
 
 Luděk Sušický
 
-biolog, středoškolský a vysokoškolský učitel informatických předmětů
+biologist, secondary-school and university teacher of computing subjects
 
 ## Start
 
