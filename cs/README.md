@@ -8,9 +8,14 @@ Verze: 1.0.0 · 2026-11-05
 
 Knihovna pro studium z podkladů: jeden společný master prompt a čtrnáct volitelných bloků pro plánování, vysvětlení, vybavování, zaměření vyučujícího, hodnocení a návaznost. Angličtina je hlavní udržovaná verze; česká, ruská a španělská zachovávají stejný postup.
 
-Luděk Sušický
+## Autor
 
-biolog, středoškolský a vysokoškolský učitel informatických předmětů · [@siberius na GitHubu](https://github.com/siberius)
+**Luděk Sušický** — biolog, středoškolský a vysokoškolský učitel informatických předmětů
+
+- E-mail: [ludek.susicky@gmail.com](mailto:ludek.susicky@gmail.com)
+- X: [@ludeksusicky](https://x.com/ludeksusicky)
+- LinkedIn: [Luděk Sušický](https://www.linkedin.com/in/ludek-susicky/)
+- GitHub: [@siberius](https://github.com/siberius) — další vzdělávací projekty a otevřené aplikace
 
 ## Začátek
 
