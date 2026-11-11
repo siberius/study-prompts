@@ -2,6 +2,7 @@
 
 ## 1.0.0 (2026-11-05)
 
+- Align the README block count with the 15 published blocks and replace author-block dashes with plain punctuation.
 - Review accessible materials before recommending two or three learning paths; disclose source coverage, respect explicit choices and offer an optional entry check when relevant.
 
 - Add selectable Socratic and supported-explanation paths without silently changing the chosen approach.

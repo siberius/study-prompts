@@ -2,7 +2,7 @@
 
 Versión: 1.0.0 · 2026-11-05
 
-Biblioteca para estudiar con fuentes: un prompt principal y catorce bloques seleccionables para planificación, explicación, recuperación, enfoque del docente, evaluación y continuidad. El inglés es la edición principal mantenida; las versiones checa, rusa y española conservan el mismo procedimiento.
+Biblioteca para estudiar con fuentes: un prompt principal y quince bloques seleccionables para planificación, explicación, recuperación, enfoque del docente, evaluación y continuidad. El inglés es la edición principal mantenida; las versiones checa, rusa y española conservan el mismo procedimiento.
 
 Luděk Sušický
 
